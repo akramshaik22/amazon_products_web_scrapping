@@ -4,3 +4,5 @@ and this data is exported into a csv file.
 
 In this project i have used the Python - selenium module(web scrapping tool).
 
+TOTAL NO OF URL HITS ARE 459.
+
